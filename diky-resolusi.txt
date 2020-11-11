@@ -2,6 +2,5 @@ Diky Resolusi
 - belajar git
 - belajar laravel
 - belajar vue.js
-- balajar codeingniter4
 - belajar react.js
-
+- blajar tailwind.css
